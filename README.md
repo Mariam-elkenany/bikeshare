@@ -12,8 +12,9 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 * User Type (Subscriber or Customer)
 * The Chicago and New York City files also have the following two columns:
 
-- Gender
-- Birth Year
+ Gender
+ 
+ Birth Year
 
 ### Statistics Computed
 The purpose of this project is to analyze bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics.
